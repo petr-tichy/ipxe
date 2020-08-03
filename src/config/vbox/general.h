@@ -1,3 +1,8 @@
+#undef DNS_RESOLVER
+#undef DOWNLOAD_PROTO_TFTP
+#undef NET_PROTO_STP
+#undef NET_PROTO_LACP
+
 /* Disabled from config/defaults/pcbios.h */
 
 #undef SANBOOT_PROTO_ISCSI
